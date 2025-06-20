@@ -389,6 +389,7 @@ hr {
 
 .popup-content {
     position: relative;
+    width: 100%;
     max-width: 80vw;
     max-height: 100vh;
     aspect-ratio: 16 / 9;
