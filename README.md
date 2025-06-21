@@ -1,2 +1,2 @@
 # Grand Theft Auto RealisticVision
-Graphics Mod for Grand Theft Auto
+RenderHook Preset for Grand Theft Auto
