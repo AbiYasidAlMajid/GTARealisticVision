@@ -30,7 +30,7 @@ body {
     font-family: var(--main-font);
     font-size: 100%;
     line-height: normal;
-    background: var(--gradient-background);
+    background: var(--color-2);
     color: var(--color-1);
 }
 
@@ -112,6 +112,7 @@ main {
     align-items: center;
     width: 100%;
     min-height: 100vh;
+    background: var(--gradient-background);
     white-space: nowrap;
 }
 

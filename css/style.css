@@ -30,7 +30,7 @@ body {
     font-family: var(--main-font);
     font-size: 100%;
     line-height: normal;
-    background: var(--gradient-background);
+    background: var(--color-2);
     color: var(--color-1);
 }
 
@@ -187,6 +187,7 @@ main {
     display: flex;
     justify-content: center;
     width: 100%;
+    background: var(--gradient-background);
     white-space: nowrap;
 }
 
